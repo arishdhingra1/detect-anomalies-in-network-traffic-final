@@ -87,7 +87,7 @@ Models Implemented:
 
 ---
 
-## 🔄 Next Steps - Shared steps in report.
+## 🔄 Next Steps - Shared the implementation plan in detail within report.docx.
 
 - ✅ Integrate live network data from home routers using Zeek and Wireshark
 - ✅ Retrain models nightly and evaluate drift
