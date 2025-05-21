@@ -101,7 +101,7 @@ Models Implemented:
 ## 📂 Project Deliverables
 
 - [Link to notebook: Final Jupyter Notebook](https://github.com/arishdhingra1/detect-anomalies-in-network-traffic-final/blob/main/project_final.ipynb)
-- [Report](https://github.com/arishdhingra1/detect-anomalies-in-network-traffic-final/blob/main/project_final.ipynb)
+- [Report](https://github.com/arishdhingra1/detect-anomalies-in-network-traffic-final/blob/main/final_report.docx)
 - [Presentation](https://github.com/arishdhingra1/detect-anomalies-in-network-traffic-final/blob/main/project_final.ipynb)
 
 ---
