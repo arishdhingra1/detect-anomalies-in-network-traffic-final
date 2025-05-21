@@ -26,6 +26,7 @@ Can we detect anomalies in network traffic that may indicate suspicious or malic
 **File Used:** `Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv`  
 - Contains both benign and DDoS traffic
 - Publicly available
+- Uploaded the dataset to Gdrive for implementation of this project and fetching it live die to space constraints from GitHub.
 
 **Planned Extension:** Use live traffic logs captured via Zeek and Wireshark to expand dataset and support real-time inference.
 
